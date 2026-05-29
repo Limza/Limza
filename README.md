@@ -14,7 +14,7 @@ MMORPG · SNG · 수집형 RPG · 블록체인 게임 · 글로벌 라이브 서
 ### 🎬 40초 소개 영상
 
 <a href="https://youtube.com/shorts/a7pTPRzSb7E">
-  <img src="./assets/profile-shorts-preview.gif" alt="클라이언트에서 글로벌 게임 서버까지 - 강익준 소개 영상 미리보기" width="260" />
+  <img src="./assets/profile-shorts-preview.gif" alt="클라이언트에서 글로벌 게임 서버까지 - 강익준 소개 영상 미리보기" width="280" />
 </a>
 
 [▶ Shorts로 보기](https://youtube.com/shorts/a7pTPRzSb7E)
